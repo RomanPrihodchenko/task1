@@ -1,0 +1,10 @@
+.nav {
+    background-color: #91a8ed;
+    padding: 30px;
+    min-height: 100%;
+    margin-right: 3px;
+  }
+
+  .item {
+    margin: 10px;
+  }
